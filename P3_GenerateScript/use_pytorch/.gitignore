@@ -1,0 +1,6 @@
+data
+.ipynb_checkpoints
+generated_script_1.txt
+preprocess.p
+trained_rnn.pt
+trained_rnn_new.pt

@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+*.zip
+*.pt
+*.p
+*.ipynb.part
+*.html
+.idea
+*.pyc

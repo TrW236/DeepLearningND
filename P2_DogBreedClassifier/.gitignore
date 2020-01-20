@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+dogImages
+images
+lfw
+*.zip
+*.pt
+*.p
+haarcascade_frontalface_alt.xml
+*.html
+.idea
+*.pyc

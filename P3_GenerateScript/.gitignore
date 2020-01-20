@@ -1,0 +1,12 @@
+data
+simpsons
+
+.ipynb_checkpoints
+__pycache__
+*.pyc
+
+*.txt
+*.pt
+*.p
+*.html
+
